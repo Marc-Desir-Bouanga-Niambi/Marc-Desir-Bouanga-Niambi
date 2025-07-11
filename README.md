@@ -45,11 +45,9 @@ Si tu veux en savoir plus ou échanger, n'hésite pas à me poser tes questions 
 
 <!-- Remplace ces liens par tes vrais projets -->
 <a href="https://github.com/Bouanga/nom-du-projet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bouanga&repo=nom-du-projet&theme=dracula" />
+  <img align="center" src="https://github.com/Marc-Desir-Bouanga-Niambi/Greni.git" /> 
 </a>
-<a href="https://github.com/Bouanga/nom-du-projet2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bouanga&repo=nom-du-projet2&theme=dracula" />
-</a>
+
 
 ---
 
