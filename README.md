@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="80%" alt="Bonjour, je suis Bouanga !" src="./assets/gh-readme-header.png" />
-</p>
+
 
 <br />
 
