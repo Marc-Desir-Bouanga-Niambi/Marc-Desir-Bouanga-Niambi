@@ -55,9 +55,8 @@ Si tu veux en savoir plus ou échanger, n'hésite pas à me poser tes questions 
 
 ### 📫 Me contacter
 
-- LinkedIn : *(mets ton lien si tu en as un)*  
-- Email : *(à insérer si tu veux être contacté)*  
-- Ou laisse une issue sur un de mes dépôts GitHub
+- LinkedIn : https://www.linkedin.com/in/marc-d%C3%A9sir-bouanga-niambi-a38977241/  
+- Email : bnmarcdesir@gmail.com
 
 ---
 
