@@ -39,16 +39,6 @@ Si tu veux en savoir plus ou échanger, n'hésite pas à me poser tes questions 
 
 ---
 
-### 📌 Projets en avant
-
-<!-- Remplace ces liens par tes vrais projets -->
-<a href="https://github.com/Bouanga/nom-du-projet">
-  <img align="center" src="https://github.com/Marc-Desir-Bouanga-Niambi/Greni.git" /> 
-</a>
-
-
----
-
 ### 📫 Me contacter
 
 - LinkedIn : https://www.linkedin.com/in/marc-d%C3%A9sir-bouanga-niambi-a38977241/  
