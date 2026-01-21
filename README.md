@@ -4,7 +4,7 @@
 
 ## 👋 Bonjour, je m'appelle Bouanga Niambi Marc Désir
 
-Je suis étudiant en informatique à Rennes, passionné par le développement web et l'apprentissage de nouvelles technologies.  
+Je suis étudiant en informatique à Rennes, passionné par le développement et l'apprentissage de nouvelles technologies.  
 Je découvre chaque jour de nouveaux outils, et j'aime créer, tester, et apprendre en continu.  
 Si tu veux en savoir plus ou échanger, n'hésite pas à me poser tes questions !
 
