@@ -29,13 +29,8 @@ Si tu veux en savoir plus ou échanger, n'hésite pas à me poser tes questions 
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"></code>
 <code><img height="20" alt="mongodb" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"></code>
-<code><img height="20" alt="html5" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></code>
-<code><img height="20" alt="css3" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></code>
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"></code>
 <code><img height="20" alt="nextjs" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png"></code>
 <code><img height="20" alt="mongodb" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"></code>
-<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
 <code><img height="20" alt="java" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png"></code>
 <code><img height="20" alt="csharp" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png"></code>
 <code><img height="20" alt="mysql" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"></code>
